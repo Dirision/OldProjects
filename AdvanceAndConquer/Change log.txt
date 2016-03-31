@@ -1,0 +1,129 @@
+[Advance and Conquer Changelog]
+
+Version: 0.0.1
+May 8th
+Changes:
+Nick:
+-Created classes runner and methods1
+-created some variables
+-created a method for input
+-created a method the displays an intro message
+-created main
+-created object of Methods1 in runner
+
+Version 0.0.2
+May 9th
+Changes:
+Game is now "Advance and conquer"!
+Nick:
+-created menu + loop
+-created help msg method
+-finished menu
+Joey:
+-created maps class
+-created factions
+
+
+Version 0.0.3
+May 13th
+Changes:
+Nick:
+-created troop bank class along with various data in it
+Joey:
+-Worked on maps and factions
+-wasteland complete
+-mountain range started
+
+
+Version 0.0.4
+May 14th
+Changes:
+Nick:
+-created a class for player actions 
+-fixed so that player 2 now has a faction
+-updated the runner
+
+~Skipped to v0.0.7~
+
+Version 0.0.7
+May 19th & 20th
+Changes:
+Nick:
+- Fixed a ton of errors
+- Troops can now be created
+- Finally Implamented player 2
+- Bases Spawn Stuff instead of just having stuff be made
+- created methods and some data arrays so that maps now shows location of spawned troop
+
+Joey:
+- oil derrick pseudo
+- attack pseudo
+- menu changes
+
+Version 0.0.8
+May 21st
+Changes:
+Nick:
+- Working on troop movement
+- finished a huge amount of work, troops can now move in the 4 cardinal directions and are limited by boundries and ranges they can travel
+-P1 troops capital letters, P2 small
+
+
+Joey:
+- factions and maps completed
+- Fixed the mother of all bugs -> the null map thing
+- Started help files etc
+
+
+Version 0.0.9
+May 22nd
+Changes:
+Nick:
+- developing attack methods 
+- fixed a couple bugs with movement
+Joey:
+-finished help files
+
+Version 0.9.1
+May 24th
+Changes:
+Nick:
+- fixed the version number so it makes more sense
+- working on damage calc.
+
+Version 1.0
+May 25th
+Changes:
+Nick: 
+- Attacking complete, along with bonuses done with specific conditions
+- Game now a playable release!!!!
+- Troops can be destroyed in combat etc.
+- Still need win cond.
+
+Version 1.1
+May 26th
+Changes:
+Nick:
+- Fixed it so that cpu is not selectable
+- Now have it so that you could winrar
+- Victory msg etc. 
+- Still need to fix Mtn. Range.
+
+
+Version 1.2
+May 27th
+Changes:
+Nick: 
+- Disabled mountain range, not enought time to fix.
+- edited help
+- added story
+- did tons of commenting
+- up till 12 finding bugs that joey didn't >_< 
+- fixed coordinates so its a little bit better to read
+- secret option canada
+- ajusted troop stats
+
+Joey:
+- commented
+- bug swept
+- folder compiled
